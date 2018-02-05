@@ -1,0 +1,42 @@
+
+body {
+  background-color:black;
+  margin-top:40px;
+}
+
+.container {
+ 
+ border:solid;
+  background-color:white;
+  border-radius:10px;
+
+}
+
+img{
+  border-radius:10px;
+}
+
+.top-heading {
+  text-align:center;
+  font-family:arial;
+  padding-top:40px;
+  padding-bottom:40px;
+ 
+}
+
+h2 {
+  font-style: italic;
+}
+
+center{
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.text-under-image{
+    padding-left:20px;
+}
+h4{
+   padding-left:20px;
+}
